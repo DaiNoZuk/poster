@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export default function BackPage() {
-  return (
-    <div>backPage</div>
-  )
+function BackPage() {
+  return <div></div>;
 }
+
+export default BackPage;
