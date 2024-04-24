@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function backPage() {
+export default function BackPage() {
   return (
     <div>backPage</div>
   )
